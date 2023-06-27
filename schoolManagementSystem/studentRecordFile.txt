@@ -1,0 +1,6 @@
+
+Index Number = 123
+First Name = A
+Last Name = B
+Grade = 99
+Date of Birth =WSE
